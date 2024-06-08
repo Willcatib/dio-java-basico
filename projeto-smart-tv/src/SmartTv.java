@@ -7,12 +7,11 @@ public class SmartTv {
     canal = novoCanal;
     }
 public void aumentarCanal(){
-    canal++
+    canal++;
 }  
 public void diminuirCanal(){
-    canal--
+    canal--;
 }  
-
    public void ligar(){
    ligada= true;
    }
